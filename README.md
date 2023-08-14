@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [End-to-End-Project-Spam-SMS-Classification](https://github.com/ayaanmd1/End-to-End-Project-Spam-SMS-Classification)
 
-- 🤝 I’m looking for help with **do**
+
 
 - 💬 Ask me about **react, machine learning**
 
